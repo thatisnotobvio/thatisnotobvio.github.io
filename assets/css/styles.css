@@ -343,6 +343,10 @@ img{
 .work__img img:hover{
   transform: scale(1.1);
 }
+.work__text{
+  margin-bottom: var(--mb-2);
+}
+  
 
 /* ===== CONTACT =====*/
 .contact__input{
