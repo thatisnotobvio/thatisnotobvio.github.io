@@ -1,18 +1,21 @@
-/*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
-/*===== VARIABLES CSS =====*/
+
+
 :root{
   --header-height: 3rem;
   --font-semi: 600;
 }
 
-/*===== Colores =====*/
+
+
 :root{
   --first-color: #4070F4;
   --second-color: #0E2431;
 }
 
-/*===== Fuente y tipografia =====*/
+
+
+
 :root{
   --body-font: 'Poppins', sans-serif;
   --big-font-size: 2rem;
@@ -27,7 +30,9 @@
   }
 }
 
-/*===== Margenes =====*/
+
+
+
 :root{
   --mb-1: 0.5rem;
   --mb-2: 1rem;
@@ -75,6 +80,8 @@ img{
   display: block;
 }
 
+
+
 /*===== CLASS CSS ===== */
 .section-title{
   position: relative;
@@ -100,6 +107,8 @@ img{
   padding-bottom: 2rem;
 }
 
+
+
 /*===== LAYOUT =====*/
 .bd-grid{
   max-width: 1024px;
@@ -119,6 +128,8 @@ img{
   background-color: #fff;
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
+
+
 
 /*===== NAV =====*/
 .nav{
