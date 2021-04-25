@@ -303,13 +303,25 @@ img{
   width: 95%;
 }
 .skills__css{
-  width: 85%;
+  width: 70%;
 }
 .skills__js{
-  width: 65%;
+  width: 50%;
 }
 .skills__ux{
-  width: 85%;
+  width: 80%;
+}
+.skills__ps{
+  width: 90%;
+}
+.skills__ai{
+  width: 80%;
+}
+.skills__xd{
+  width:80;
+}
+.skils__fg{
+  width:75%;
 }
 .skills__img{
   border-radius: .5rem;
